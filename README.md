@@ -1,3 +1,3 @@
 # hacktoberfest2020
-this is my first hactoberfest 
+this is my first hacktoberfest 
 iam sanjana
