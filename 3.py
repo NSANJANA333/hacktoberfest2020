@@ -10,6 +10,8 @@ for i  in range(0,a):
     d=d+c[i][i]
     e=e+c[i][a-i-1]
 print(abs(d-e)) 
+
+
             
 
 
