@@ -12,4 +12,5 @@ for i in range(0,a):
     if(d==1):
         print(c[i])
                 
+            
         
